@@ -34,7 +34,7 @@
     "rehype-katex": "7",
     "remark-math": "6",
     "sass": "^1.49.9",
-    "webpack": "^5.80.0"
+    "webpack": "^5.94.0"
   },
   "devDependencies": {
     "@tsconfig/docusaurus": "^1.0.4",
